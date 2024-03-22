@@ -1,4 +1,4 @@
-# Peperoni pizza recipe
+## Peperoni pizza recipe
 
 *Method*
 
@@ -14,3 +14,14 @@ Loosely line a 22cm cake tin or ovenproof frying pan with a disc of baking parch
 
 STEP 4
 Heat the oven to 200C/180C fan/gas 6. Bake the rolls for 30-35 mins until golden brown and the cheese is oozing. Cool for 5 mins before serving. Best eaten within 24 hrs.
+
+# Список клиентов
+
+Мы на столько крутые, что уже успели поработать со следующими компаниями:
+
+    1. ООО «Рога и копыта»
+    2. Издательство «Читый лист»
+    3. Космопорт «Черезтерновый Кзвёздный»
+    4. Дизайн-студия имени Слишком Известного Персонажа
+   
+Нас можно найти в google.com.
